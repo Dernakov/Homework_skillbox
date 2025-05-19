@@ -19,7 +19,7 @@
 - Формулирование выводов и гипотез
 - Использование Python, Pandas, Matplotlib
 
-📄 Подробнее: [final_DataCleaning.ipynb](./finalwork_DA_Skillbox/final_DataCleaning.ipynb)
+📄 Подробнее: [final_DataCleaning.ipynb](./finalwork_DA_Skillbox/final_DataCleaning.ipynb)  
                [final_hypotheses__questions.ipynb](./finalwork_DA_Skillbox/final_hypotheses__questions.ipynb)
 
 ---
@@ -64,8 +64,8 @@ The project includes:
 - Drawing conclusions and formulating hypotheses  
 - Using Python, Pandas, Matplotlib
 
-📄 More details: [final_DataCleaning.ipynb](./final_DataCleaning.ipynb)  
-               [final_hypotheses__questions.ipynb](./final_hypotheses__questions.ipynb)
+📄 More details: [final_DataCleaning.ipynb](./finalwork_DA_Skillbox/final_DataCleaning.ipynb)  
+               [final_hypotheses__questions.ipynb](./finalwork_DA_Skillbox/final_hypotheses__questions.ipynb)
 
 ---
 
