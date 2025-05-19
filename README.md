@@ -55,7 +55,7 @@ as well as my **final project**, which is given special attention.
 
 ### 🏁 Final Project
 
-**🔍 Data Analysis of the "SberAutopodpiska" service**  
+**🔍 Data Analysis of the "SberAutoSubscription" service**  
 In this final work, I conducted a study of user behavior and key metrics of Sber’s subscription service.  
 The project includes:
 
