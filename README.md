@@ -19,8 +19,8 @@
 - Формулирование выводов и гипотез
 - Использование Python, Pandas, Matplotlib
 
-📄 Подробнее: [final_DataCleaning.ipynb](./final_DataCleaning.ipynb)
-               [final_hypotheses__questions.ipynb](./final_hypotheses__questions.ipynb)
+📄 Подробнее: [final_DataCleaning.ipynb](./finalwork_DA_Skillbox/final_DataCleaning.ipynb)
+               [final_hypotheses__questions.ipynb](./finalwork_DA_Skillbox/final_hypotheses__questions.ipynb)
 
 ---
 
